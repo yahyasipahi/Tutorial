@@ -7,7 +7,7 @@ namespace ConsoleApplication
     {
         public static void Main(string[] args)
         {
-           Console.WriteLine("Tutorial projesi!");
+           Console.WriteLine("Tutorial projesi 2!");
             Console.Read();
         }
     }
